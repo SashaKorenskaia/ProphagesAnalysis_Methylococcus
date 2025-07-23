@@ -1,0 +1,27 @@
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_1-spacers.fa	C8_PHASTEST_1	9.156E+00	1
+>spacer14	C8_PHASTEST_1	1.056E-04	32	3	33771	33800	-|-	-|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_1-spacers.fa	VIBRANT_phages_c8_1	9.156E+00	1
+>spacer14	VIBRANT_phages_c8_1	1.056E-04	32	3	73164	73193	-|-	-|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_1-spacers.fa	c8.phigaro.fasta_1	9.156E+00	1
+>spacer14	c8.phigaro.fasta_1	1.056E-04	32	3	60031	60060	-|-	-|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_2-spacers.fa	NZ_OX458332_Mc(Nor)_PHASTEST_1	2.913E+01	1
+>spacer73	NZ_OX458332_Mc(Nor)_PHASTEST_1	2.234E-13	33	1	13555	13587	-|-	-|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_2-spacers.fa	PhiSpy_IO1.phages_1	6.297E+00	1
+>spacer68	PhiSpy_IO1.phages_1	1.842E-03	6	32	263	237	-|-	TCG|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_2-spacers.fa	PhiSpy_KN2.phages_3	6.297E+00	1
+>spacer68	PhiSpy_KN2.phages_3	1.842E-03	6	32	1094	1068	-|-	-|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_2-spacers.fa	PhiSpy_Mc7.phages_2	3.448E+01	4
+>spacer28	PhiSpy_Mc7.phages_2	5.464E-07	32	3	9797	9826	-|-	-|CCGGGT
+>spacer40	PhiSpy_Mc7.phages_2	2.424E-06	4	33	10475	10504	-|-	-|-
+>spacer40	PhiSpy_Mc7.phages_2	4.244E-06	33	4	10504	10475	-|-	-|-
+>spacer45	PhiSpy_Mc7.phages_2	2.961E-06	32	3	9755	9784	-|GGG	-|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_2-spacers.fa	VIBRANT_phages_NZ_CP110921_16-5_3	1.096E+02	7
+>spacer23	VIBRANT_phages_NZ_CP110921_16-5_3	1.172E-11	31	2	8118	8089	-|-	-|-
+>spacer25	VIBRANT_phages_NZ_CP110921_16-5_3	1.172E-11	31	2	8118	8089	-|-	-|-
+>spacer40	VIBRANT_phages_NZ_CP110921_16-5_3	3.548E-04	30	4	2288	2314	-|-	-|-
+>spacer40	VIBRANT_phages_NZ_CP110921_16-5_3	4.303E-04	4	33	2314	2285	-|-	-|-
+>spacer56	VIBRANT_phages_NZ_CP110921_16-5_3	2.234E-13	1	33	7948	7916	-|ACGGAT	-|-
+>spacer56	VIBRANT_phages_NZ_CP110921_16-5_3	1.172E-11	2	31	7947	7918	-|ACGGAT	-|-
+>spacer56	VIBRANT_phages_NZ_CP110921_16-5_3	1.172E-11	3	32	7946	7917	-|ACGGAT	-|-
+#Sequence_CP079098_1_Methylococcus_species_strain_strain-crispr_CP079098_1_Methylococcus_species_strain_strain_2-spacers.fa	VIBRANT_phages_OX458332_Mc-Nor_1	2.913E+01	1
+>spacer73	VIBRANT_phages_OX458332_Mc-Nor_1	2.234E-13	33	1	14284	14316	-|-	-|-

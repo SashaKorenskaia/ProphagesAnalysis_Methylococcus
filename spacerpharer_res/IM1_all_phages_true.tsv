@@ -1,0 +1,18 @@
+#Sequence_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1-crispr_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1_1-spacers.fa	16-5_PHASTEST_1	2.517E+01	1
+>spacer124	16-5_PHASTEST_1	1.172E-11	30	1	32971	33000	CC|-	-|-
+#Sequence_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1-crispr_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1_1-spacers.fa	VIBRANT_phages_NZ_CP110921_16-5_3	2.605E+01	2
+>spacer32	VIBRANT_phages_NZ_CP110921_16-5_3	6.769E-04	1	30	2506	2477	-|-	-|-
+>spacer124	VIBRANT_phages_NZ_CP110921_16-5_2	1.172E-11	30	1	40577	40606	-|CGG	CCG|-
+#Sequence_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1-crispr_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1_2-spacers.fa	VIBRANT_phages_NZ_CP110921_16-5_1	2.758E+01	6
+>spacer31	VIBRANT_phages_NZ_CP110921_16-5_1	7.682E-05	3	35	34756	34724	-|-	-|-
+>spacer31	VIBRANT_phages_NZ_CP110921_16-5_1	7.682E-05	34	2	34725	34757	-|-	-|-
+>spacer36	VIBRANT_phages_NZ_CP110921_16-5_1	7.682E-05	3	35	34756	34724	-|-	-|-
+>spacer36	VIBRANT_phages_NZ_CP110921_16-5_1	7.682E-05	34	2	34725	34757	-|-	-|-
+>spacer38	VIBRANT_phages_NZ_CP110921_16-5_1	4.676E-04	33	1	27506	27538	-|-	-|-
+>spacer47	VIBRANT_phages_NZ_CP110921_16-5_1	5.760E-05	34	5	27428	27457	-|-	-|-
+#Sequence_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1-crispr_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1_3-spacers.fa	C8_PHASTEST_1	1.237E+01	1
+>spacer14	C8_PHASTEST_1	4.244E-06	1	30	40981	41010	-|-	-|CGG
+#Sequence_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1-crispr_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1_3-spacers.fa	VIBRANT_phages_c8_1	1.237E+01	1
+>spacer14	VIBRANT_phages_c8_1	4.244E-06	1	30	80374	80403	-|-	-|CGG
+#Sequence_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1-crispr_NZ_CP046565_1_Methylococcus_geothermalis__str__IM1_3-spacers.fa	c8.phigaro.fasta_1	1.237E+01	1
+>spacer14	c8.phigaro.fasta_1	4.244E-06	1	30	67241	67270	-|-	-|CGG

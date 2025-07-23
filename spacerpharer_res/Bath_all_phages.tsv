@@ -1,0 +1,35 @@
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	16-5_PHASTEST_4	1.584E+01	2
+>spacer31	16-5_PHASTEST_4	4.244E-06	4	33	20118	20089	-|-	-|-
+>spacer31	16-5_PHASTEST_4	1.056E-04	32	3	20090	20119	-|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	C8_PHASTEST_1	5.240E+01	2
+>spacer30	C8_PHASTEST_1	2.647E-13	38	3	12068	12033	TTG|-	-|-
+>spacer31	C8_PHASTEST_1	2.234E-13	1	33	14051	14019	TTC|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	NC_002977_Bath.phigaro.fasta_2	1.619E+01	1
+>spacer1	NC_002977_Bath.phigaro.fasta_2	9.306E-08	1	33	31129	31167	-|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	NC_002977_Bath_PHASTEST_2	1.619E+01	1
+>spacer1	NC_002977_Bath_PHASTEST_2	9.306E-08	1	33	29993	30031	-|-	ATG|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	NC_002977_Bath_PhiSpy.phages_2	1.619E+01	1
+>spacer1	NC_002977_Bath_PhiSpy.phages_2	9.306E-08	1	33	27805	27843	-|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	NZ_CP110921_16-5.phigaro.fasta_4	1.584E+01	2
+>spacer31	NZ_CP110921_16-5.phigaro.fasta_4	4.244E-06	4	33	13992	13963	ATG|-	-|-
+>spacer31	NZ_CP110921_16-5.phigaro.fasta_4	1.056E-04	32	3	13964	13993	ATG|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	PhiSpy_16-5.phages_4	1.584E+01	2
+>spacer31	PhiSpy_16-5.phages_4	4.244E-06	4	33	14820	14791	-|-	-|-
+>spacer31	PhiSpy_16-5.phages_4	1.056E-04	32	3	14792	14821	-|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	PhiSpy_Mc7.phages_2	5.952E+01	3
+>spacer28	PhiSpy_Mc7.phages_2	8.132E-10	35	3	7303	7271	-|GGG	-|-
+>spacer29	PhiSpy_Mc7.phages_2	1.417E-11	2	34	6772	6804	-|CGG	-|-
+>spacer29	PhiSpy_Mc7.phages_2	1.417E-11	33	1	6803	6771	-|CGG	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	VIBRANT_phages_NC_002977_Bath_1	1.619E+01	1
+>spacer1	VIBRANT_phages_NC_002977_Bath_1	9.306E-08	1	33	32829	32867	-|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	VIBRANT_phages_NZ_CP110921_16-5_4	1.584E+01	2
+>spacer31	VIBRANT_phages_NZ_CP110921_16-5_4	4.244E-06	4	33	17519	17490	-|-	-|-
+>spacer31	VIBRANT_phages_NZ_CP110921_16-5_4	1.056E-04	32	3	17491	17520	-|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	VIBRANT_phages_c8_1	5.240E+01	2
+>spacer30	VIBRANT_phages_c8_1	2.647E-13	38	3	51461	51426	TTG|-	-|-
+>spacer31	VIBRANT_phages_c8_1	2.234E-13	1	33	53444	53412	TTC|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_1-spacers.fa	c8.phigaro.fasta_1	5.240E+01	2
+>spacer30	c8.phigaro.fasta_1	2.647E-13	38	3	38328	38293	TTG|-	-|-
+>spacer31	c8.phigaro.fasta_1	2.234E-13	1	33	40311	40279	TTC|-	-|-
+#Sequence_AE017282_2_Methylococcus_species_strain_strain-crispr_AE017282_2_Methylococcus_species_strain_strain_2-spacers.fa	VIBRANT_phages_NZ_CP110921_16-5_3	2.101E+01	1
+>spacer1	VIBRANT_phages_NZ_CP110921_16-5_3	7.507E-10	2	31	8511	8482	-|-	-|-
