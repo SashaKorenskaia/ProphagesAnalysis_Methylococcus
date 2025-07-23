@@ -1,0 +1,363 @@
+{
+"Date":"20/9/2024_6:8:9",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"NZ_CP110921_1_Methylococcus_species_strain_strain",
+"Version":"NZ_CP110921_1_Methylococcus_species_strain_strain",
+"Description":"Unknown",
+"AT":37.528562442265,
+"Length":4343116,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "NZ_CP110921_1_Methylococcus_species_strain_strain_1",
+"Start": 639426,
+"End": 639886,
+"DR_Consensus": "GGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC",
+"Repeat_ID": "Unknown",
+"DR_Length": 37,
+"Spacers": 6,
+"Potential_Orientation": "+",
+"CRISPRDirection": "ND",
+"Evidence_Level": 4,
+"Conservation_DRs": 98.4008843822099,
+"Conservation_Spacers": 2.27272727272727,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 639326,
+"End": 639425,
+"Sequence": "GGTTCGCGCATGGCTGCCGAAAGTCAGCTTTTCGAGCGGCCGATTTTTCTTCAACCCCCTCTATAACAAAATGATTTTTAAGGAGAAATATGACGAAGCA",
+"Leader": 1,
+"AT": 55
+},
+ {
+"Type": "DR",
+"Start": 639426,
+"End": 639462,
+"Sequence": "GGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 639463,
+"End": 639497,
+"Sequence": "ACGACAGGCGCGAACGTATTCGTCTATCCGTCCCA"
+},
+{
+"Type": "DR",
+"Start": 639498,
+"End": 639534,
+"Sequence": "GGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 639535,
+"End": 639567,
+"Sequence": "TCCACCAACTCGACGGACGCAAGAATCGCATTC"
+},
+{
+"Type": "DR",
+"Start": 639568,
+"End": 639604,
+"Sequence": "GGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 639605,
+"End": 639638,
+"Sequence": "TAGTCTCAAGTCAGTCTGTTAGTGTCGCTCTAGC"
+},
+{
+"Type": "DR",
+"Start": 639639,
+"End": 639675,
+"Sequence": "GGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 639676,
+"End": 639709,
+"Sequence": "AAGACTTCTTCATCAGTTGTGTTTAGCTTTTCAG"
+},
+{
+"Type": "DR",
+"Start": 639710,
+"End": 639746,
+"Sequence": "GGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 639747,
+"End": 639779,
+"Sequence": "TAGAGCAAGCGTATCAGCGTTCATAGTCTAGTC"
+},
+{
+"Type": "DR",
+"Start": 639780,
+"End": 639816,
+"Sequence": "GGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 639817,
+"End": 639849,
+"Sequence": "CGCCATTCGGAATCTGGCTGTTCAGCACAGCCG"
+},
+{
+"Type": "DR",
+"Start": 639850,
+"End": 639886,
+"Sequence": "CGTAGTAATCGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "RightFLANK",
+"Start": 639887,
+"End": 639986,
+"Sequence": "CGCCGGGGTAGAACCGGCACTCCCCGTCCGCTCCGCCCGCCATCACCCGGCAAGCTTGCGATATCTGACAAGGATCAGTCGCTTGCACTACACTTCGCGG",
+"Leader": 0,
+"AT": 35
+}
+]
+},
+{
+"Name": "NZ_CP110921_1_Methylococcus_species_strain_strain_2",
+"Start": 656800,
+"End": 657324,
+"DR_Consensus": "GTAGTAACTGAGACCTGATGAAGAAGGGATTAAGAC",
+"Repeat_ID": "Unknown",
+"DR_Length": 36,
+"Spacers": 7,
+"Potential_Orientation": "+",
+"CRISPRDirection": "ND",
+"Evidence_Level": 4,
+"Conservation_DRs": 86.4826965920658,
+"Conservation_Spacers": 0,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 656700,
+"End": 656799,
+"Sequence": "CGAGAAAGCCCAGCTCACAGGAGTCAGCTTTTGGAACCAGCGATTTTTCTTCAACCCCCGTTGCAAACCCATGATTGGAAAGGAGAAAAATGACGAAGCA",
+"Leader": 1,
+"AT": 52
+},
+ {
+"Type": "DR",
+"Start": 656800,
+"End": 656835,
+"Sequence": "GTAGTAACTGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 656836,
+"End": 656870,
+"Sequence": "AGTCCGGCATCAGTGAGAGTTAGGCGATAGATGTG"
+},
+{
+"Type": "DR",
+"Start": 656871,
+"End": 656906,
+"Sequence": "GTAGTAACTGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 656907,
+"End": 656940,
+"Sequence": "TAGCAGTGCTTGAAGTATTTGCGTTCATTGTAGT"
+},
+{
+"Type": "DR",
+"Start": 656941,
+"End": 656976,
+"Sequence": "GTAGTAACTGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 656977,
+"End": 657010,
+"Sequence": "CTCTTGCTCAGCGTATGCCTTGCGCTTCTGCTCG"
+},
+{
+"Type": "DR",
+"Start": 657011,
+"End": 657046,
+"Sequence": "GTAGTAACTGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 657047,
+"End": 657077,
+"Sequence": "GGACGGCGAACTCGGAATCCACCTTGATGCG"
+},
+{
+"Type": "DR",
+"Start": 657078,
+"End": 657113,
+"Sequence": "GTAGTAACTGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 657114,
+"End": 657148,
+"Sequence": "GTCACATTGTAAACCCGTGCCAGCTCACTCAATGC"
+},
+{
+"Type": "DR",
+"Start": 657149,
+"End": 657184,
+"Sequence": "GTAGTAACTGAGACCTGATGAAGAAGGGATTAAGAC"
+},
+{
+"Type": "Spacer",
+"Start": 657185,
+"End": 657218,
+"Sequence": "ATGCGCTGCTCCAGCGCCTCCAGGAAGGCCTTCG"
+},
+{
+"Type": "DR",
+"Start": 657219,
+"End": 657254,
+"Sequence": "GTAGTAACTGAGACCTGATGAAGAAGGGATCAATAC"
+},
+{
+"Type": "Spacer",
+"Start": 657255,
+"End": 657288,
+"Sequence": "TCGAGGGCCCCTTCGAGTAGCACCGCCGCAATCG"
+},
+{
+"Type": "DR",
+"Start": 657289,
+"End": 657324,
+"Sequence": "GTAGTAAATGAAAGCTGATGAAGAAAGGATTCAAAG"
+},
+{
+"Type": "RightFLANK",
+"Start": 657325,
+"End": 657424,
+"Sequence": "TAACGGTCCACCGGCAAGGCAGGAATTTTCGAAGGACGGCCACTTACAGCCTAACTGCCGTCGGGCAAGAGCCATCTAACCGCACGCGTCGTTCGGCGGG",
+"Leader": 0,
+"AT": 39
+}
+]
+},
+{
+"Name": "NZ_CP110921_1_Methylococcus_species_strain_strain_3",
+"Start": 2831729,
+"End": 2831899,
+"DR_Consensus": "GGTGTCGGGTTCGGAGACGACGTAGGTGACGGG",
+"Repeat_ID": "Unknown",
+"DR_Length": 33,
+"Spacers": 2,
+"Potential_Orientation": "-",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 74.9555681621503,
+"Conservation_Spacers": 46.1538461538462,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 2831629,
+"End": 2831728,
+"Sequence": "CGACTGGGTACTTTCCCCGAGTTCCTTGAGAATTATCCGCCGCATCTTATGATCCGGCGCCCAGAGTCGAGCGGGGTCGACCACCGCGCGATCACAGACG",
+"Leader": 0,
+"AT": 39
+},
+ {
+"Type": "DR",
+"Start": 2831729,
+"End": 2831761,
+"Sequence": "GGATTCGGTGTCGGGGACGGCGTAGGTGTGGGT"
+},
+{
+"Type": "Spacer",
+"Start": 2831762,
+"End": 2831794,
+"Sequence": "GCCGGCGTGGGGCTTGGGCTGGACGTCGGCCCG"
+},
+{
+"Type": "DR",
+"Start": 2831795,
+"End": 2831827,
+"Sequence": "GGTGTCGGGTTCGGAGACGACGTAGGTGACGGG"
+},
+{
+"Type": "Spacer",
+"Start": 2831828,
+"End": 2831866,
+"Sequence": "GTTGGAGACGACGTAGGCGTCGGGTTCGGAGACGACGTA"
+},
+{
+"Type": "DR",
+"Start": 2831867,
+"End": 2831899,
+"Sequence": "GGTGTCGGGTTCGGAGACGACGTAGGTGTCGGG"
+},
+{
+"Type": "RightFLANK",
+"Start": 2831900,
+"End": 2831999,
+"Sequence": "TTCGGAGAGGAACCGGCGCTCAAGACCTTGACGTTCATTGACGCATTCGCCGTCAAGAAGCCGTCGCTCACGGTTAGCTGGAATACCAGAGTATCGTTCT",
+"Leader": 1,
+"AT": 46
+}
+]
+},
+{
+"Name": "NZ_CP110921_1_Methylococcus_species_strain_strain_4",
+"Start": 3915664,
+"End": 3915767,
+"DR_Consensus": "GCGTAATCGCACGCATGGCTCAGCATTCCC",
+"Repeat_ID": "Unknown",
+"DR_Length": 30,
+"Spacers": 1,
+"Potential_Orientation": "+",
+"CRISPRDirection": "ND",
+"Evidence_Level": 1,
+"Conservation_DRs": 100,
+"Conservation_Spacers": 100,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 3915564,
+"End": 3915663,
+"Sequence": "GAGGTTCGTGAGAAACAAGTGATCAGTCGTTCCGGCGGAACCCGAAAAAACCGGTTCCGCTCTACATCGTTCCCGTAGGACCCGTAGGTGCGCACGCGCA",
+"Leader": 1,
+"AT": 42
+},
+ {
+"Type": "DR",
+"Start": 3915664,
+"End": 3915693,
+"Sequence": "GCGTAATCGCACGCATGGCTCAGCATTCCC"
+},
+{
+"Type": "Spacer",
+"Start": 3915694,
+"End": 3915737,
+"Sequence": "GTTCGACTCCGCTCACGGCAGAACCCGTAGGTGCGATTAGCATC"
+},
+{
+"Type": "DR",
+"Start": 3915738,
+"End": 3915767,
+"Sequence": "GCGTAATCGCACGCATGGCTCAGCATTCCC"
+},
+{
+"Type": "RightFLANK",
+"Start": 3915768,
+"End": 3915867,
+"Sequence": "TCCGATTACGCTGCGCGTGCGGAGCTACCACCGGTGGGCGGAGGCGTGGCCGCGGCTCTGCGCCGCACGGCCGGCGAGGCCTTGCGGCTGCCCGGCGGCG",
+"Leader": 0,
+"AT": 21
+}
+]
+}]
+,
+"Cas":[]
+
+}
+]
+}
