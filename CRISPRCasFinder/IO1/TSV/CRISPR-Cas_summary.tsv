@@ -1,0 +1,2 @@
+Sequence(s)	CRISPR array(s)	Nb CRISPRs	Evidence-levels	Cas cluster(s)	Nb Cas	Cas Types/Subtypes
+CP079098_1_Methylococcus_species_strain_strain	CP079098_1_Methylococcus_species_strain_strain_1[909603;910936] (evidence-level=4), CP079098_1_Methylococcus_species_strain_strain_2[1187083;1191929] (evidence-level=4),	2	Nb_arrays_evidence-level_1=0,Nb_arrays_evidence-level_2=0,Nb_arrays_evidence-level_3=0,Nb_arrays_evidence-level_4=2	CAS-TypeIC[910994;917536], CAS-TypeIE[1191990;1200617],	2	CAS-TypeIC (n=1), CAS-TypeIE (n=1), 

@@ -1,0 +1,27 @@
+############################################
+CP079097_1_Methylococcus_species_strain_strain ( Unknown ) 
+--------------------------------------------
+### System: CAS-TypeIC (UserReplicon_CAS-TypeIC_1)
+#SequenceID	Cas-type/subtype	Gene status	System	Type	Begin	End	Strand	Other_information
+CP079097_1_Methylococcus_species_strain_strain_2727	cas2_TypeI-II-III	accessory	CAS	CDS	2943373	2943663	-	ID=1_2727;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.526;conf=100.00;score=52.75;cscore=47.67;sscore=5.08;rscore=-3.34;uscore=4.49;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2728	cas1_TypeIC	mandatory	CAS-TypeIC	CDS	2943758	2944792	-	ID=1_2728;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.638;conf=100.00;score=163.06;cscore=147.80;sscore=15.27;rscore=7.44;uscore=2.60;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2729	cas4_TypeI-II	accessory	CAS	CDS	2944789	2945421	-	ID=1_2729;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.638;conf=100.00;score=74.56;cscore=70.67;sscore=3.90;rscore=-3.34;uscore=2.14;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2730	cas7c_TypeIC	mandatory	CAS-TypeIC	CDS	2945681	2946610	-	ID=1_2730;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.619;conf=100.00;score=143.87;cscore=121.51;sscore=22.36;rscore=12.78;uscore=5.65;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2731	cas8c_TypeIC	mandatory	CAS-TypeIC	CDS	2946670	2948391	-	ID=1_2731;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.593;conf=99.99;score=260.89;cscore=242.88;sscore=18.01;rscore=12.78;uscore=-1.71;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2732	cas5c_TypeIC	mandatory	CAS-TypeIC	CDS	2948388	2949056	-	ID=1_2732;partial=00;start_type=TTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.620;conf=100.00;score=102.39;cscore=95.95;sscore=6.43;rscore=12.78;uscore=3.58;tscore=-10.63;
+CP079097_1_Methylococcus_species_strain_strain_2733	cas3_TypeI	accessory	CAS	CDS	2949109	2951331	-	ID=1_2733;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.614;conf=99.99;score=284.81;cscore=268.01;sscore=16.79;rscore=12.78;uscore=-0.69;tscore=3.93;
+####Summary system CAS-TypeIC:begin=2943373;end=2951331:{sequenceID=CP079097_1_Methylococcus_species_strain_strain} : [cas2_TypeI-II-III (2943373,2943663,-); cas1_TypeIC (2943758,2944792,-); cas4_TypeI-II (2944789,2945421,-); cas7c_TypeIC (2945681,2946610,-); cas8c_TypeIC (2946670,2948391,-); cas5c_TypeIC (2948388,2949056,-); cas3_TypeI (2949109,2951331,-)]
+
+### System: CAS-TypeIE (UserReplicon_CAS-TypeIE_1)
+#SequenceID	Cas-type/subtype	Gene status	System	Type	Begin	End	Strand	Other_information
+CP079097_1_Methylococcus_species_strain_strain_2992	cas2_TypeIE	mandatory	CAS-TypeIE	CDS	3221931	3222224	-	ID=1_2992;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.588;conf=93.81;score=11.83;cscore=-5.92;sscore=17.75;rscore=12.78;uscore=1.54;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2993	cas1_TypeIE	mandatory	CAS-TypeIE	CDS	3222196	3223086	-	ID=1_2993;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.600;conf=100.00;score=108.29;cscore=93.88;sscore=14.42;rscore=7.44;uscore=1.75;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2994	cas6_TypeIE	mandatory	CAS-TypeIE	CDS	3223083	3223802	-	ID=1_2994;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.632;conf=99.95;score=33.04;cscore=19.49;sscore=13.55;rscore=7.44;uscore=0.88;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2995	cas5_TypeIE	mandatory	CAS-TypeIE	CDS	3223799	3224548	-	ID=1_2995;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.651;conf=100.00;score=94.17;cscore=79.32;sscore=14.86;rscore=7.44;uscore=2.32;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2996	cas7_TypeIE	mandatory	CAS-TypeIE	CDS	3224559	3225803	-	ID=1_2996;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.598;conf=100.00;score=163.35;cscore=152.74;sscore=10.61;rscore=5.21;uscore=1.47;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2997	cse2_TypeIE	mandatory	CAS-TypeIE	CDS	3225877	3226389	-	ID=1_2997;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.628;conf=100.00;score=55.39;cscore=34.81;sscore=20.58;rscore=12.78;uscore=3.87;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2998	cse1_TypeIE	mandatory	CAS-TypeIE	CDS	3226367	3227929	-	ID=1_2998;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.598;conf=100.00;score=114.86;cscore=102.60;sscore=12.26;rscore=7.44;uscore=-0.26;tscore=3.93;
+CP079097_1_Methylococcus_species_strain_strain_2999	cas3_TypeI	accessory	CAS	CDS	3227913	3230558	-	ID=1_2999;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.619;conf=99.99;score=188.72;cscore=182.75;sscore=5.96;rscore=0.69;uscore=1.99;tscore=3.93;
+####Summary system CAS-TypeIE:begin=3221931;end=3230558:{sequenceID=CP079097_1_Methylococcus_species_strain_strain} : [cas2_TypeIE (3221931,3222224,-); cas1_TypeIE (3222196,3223086,-); cas6_TypeIE (3223083,3223802,-); cas5_TypeIE (3223799,3224548,-); cas7_TypeIE (3224559,3225803,-); cse2_TypeIE (3225877,3226389,-); cse1_TypeIE (3226367,3227929,-); cas3_TypeI (3227913,3230558,-)]
+
+

@@ -1,0 +1,35 @@
+############################################
+NZ_CP079095_1_Methylococcus_species_strain_strain ( Unknown ) 
+--------------------------------------------
+### System: CAS-TypeIE (UserReplicon_CAS-TypeIE_1)
+#SequenceID	Cas-type/subtype	Gene status	System	Type	Begin	End	Strand	Other_information
+NZ_CP079095_1_Methylococcus_species_strain_strain_387	cas3_TypeI	accessory	CAS	CDS	385489	388233	+	ID=1_387;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.642;conf=99.99;score=360.95;cscore=341.58;sscore=19.37;rscore=12.81;uscore=3.19;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_390	cse1_TypeIE	mandatory	CAS-TypeIE	CDS	388805	389935	+	ID=1_390;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.609;conf=100.00;score=125.01;cscore=108.33;sscore=16.68;rscore=12.81;uscore=-1.06;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_393	cas5_TypeIE	mandatory	CAS-TypeIE	CDS	391105	391713	+	ID=1_393;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.604;conf=100.00;score=56.78;cscore=54.00;sscore=2.78;rscore=-3.09;uscore=0.66;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_394	cas6_TypeIE	mandatory	CAS-TypeIE	CDS	391765	392385	+	ID=1_394;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.622;conf=100.00;score=101.24;cscore=97.74;sscore=3.50;rscore=-3.09;uscore=1.86;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_397	cas1_TypeIE	mandatory	CAS-TypeIE	CDS	393081	393983	+	ID=1_397;partial=00;start_type=ATG;rbs_motif=3Base/5BMM;rbs_spacer=13-15bp;gc_cont=0.659;conf=100.00;score=172.17;cscore=166.94;sscore=5.23;rscore=-2.72;uscore=2.70;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_398	cas2_TypeIE	mandatory	CAS-TypeIE	CDS	393964	394284	+	ID=1_398;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=5-10bp;gc_cont=0.626;conf=100.00;score=49.73;cscore=45.33;sscore=4.41;rscore=0.42;uscore=-0.03;tscore=4.01;
+####Summary system CAS-TypeIE:begin=385489;end=394284:{sequenceID=NZ_CP079095_1_Methylococcus_species_strain_strain} : [cas3_TypeI (385489,388233,+); cse1_TypeIE (388805,389935,+); cas5_TypeIE (391105,391713,+); cas6_TypeIE (391765,392385,+); cas1_TypeIE (393081,393983,+); cas2_TypeIE (393964,394284,+)]
+
+### System: CAS-TypeIC (UserReplicon_CAS-TypeIC_1)
+#SequenceID	Cas-type/subtype	Gene status	System	Type	Begin	End	Strand	Other_information
+NZ_CP079095_1_Methylococcus_species_strain_strain_660	cas3_TypeI	accessory	CAS	CDS	670469	672778	+	ID=1_660;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.610;conf=99.99;score=221.56;cscore=207.15;sscore=14.40;rscore=9.85;uscore=0.54;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_662	cas5c_TypeIC	mandatory	CAS-TypeIC	CDS	673769	674509	+	ID=1_662;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.598;conf=100.00;score=114.32;cscore=94.98;sscore=19.34;rscore=12.81;uscore=2.52;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_663	cas8c_TypeIC	mandatory	CAS-TypeIC	CDS	674502	676244	+	ID=1_663;partial=00;start_type=ATG;rbs_motif=GGAGG;rbs_spacer=5-10bp;gc_cont=0.601;conf=99.99;score=232.36;cscore=217.02;sscore=15.34;rscore=9.85;uscore=0.22;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_664	cas7c_TypeIC	mandatory	CAS-TypeIC	CDS	676274	677251	+	ID=1_664;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.598;conf=100.00;score=150.41;cscore=129.80;sscore=20.61;rscore=12.81;uscore=2.82;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_668	cas4_TypeI-II	accessory	CAS	CDS	680220	680969	+	ID=1_668;partial=00;start_type=ATG;rbs_motif=GGAG/GAGG;rbs_spacer=5-10bp;gc_cont=0.575;conf=97.71;score=16.32;cscore=7.23;sscore=9.09;rscore=7.06;uscore=-1.34;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_669	cas1_TypeIC	mandatory	CAS-TypeIC	CDS	680966	682000	+	ID=1_669;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.663;conf=99.99;score=179.09;cscore=156.52;sscore=22.57;rscore=12.81;uscore=4.44;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_670	cas2_TypeI-II-III	accessory	CAS	CDS	682010	682300	+	ID=1_670;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.570;conf=100.00;score=47.76;cscore=33.96;sscore=13.81;rscore=5.77;uscore=2.85;tscore=4.01;
+####Summary system CAS-TypeIC:begin=670469;end=682300:{sequenceID=NZ_CP079095_1_Methylococcus_species_strain_strain} : [cas3_TypeI (670469,672778,+); cas5c_TypeIC (673769,674509,+); cas8c_TypeIC (674502,676244,+); cas7c_TypeIC (676274,677251,+); cas4_TypeI-II (680220,680969,+); cas1_TypeIC (680966,682000,+); cas2_TypeI-II-III (682010,682300,+)]
+
+### System: CAS-TypeIF (UserReplicon_CAS-TypeIF_1)
+#SequenceID	Cas-type/subtype	Gene status	System	Type	Begin	End	Strand	Other_information
+NZ_CP079095_1_Methylococcus_species_strain_strain_1868	cas6_TypeIF	mandatory	CAS-TypeIF	CDS	1911576	1912139	-	ID=1_1868;partial=00;start_type=ATG;rbs_motif=AGGA;rbs_spacer=5-10bp;gc_cont=0.645;conf=100.00;score=78.11;cscore=67.78;sscore=10.33;rscore=5.77;uscore=-0.69;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_1869	csy3_TypeIF	mandatory	CAS-TypeIF	CDS	1912143	1913195	-	ID=1_1869;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.643;conf=99.99;score=210.50;cscore=191.37;sscore=19.13;rscore=12.81;uscore=1.06;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_1870	csy2_TypeIF	mandatory	CAS-TypeIF	CDS	1913199	1914209	-	ID=1_1870;partial=00;start_type=ATG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.634;conf=100.00;score=142.79;cscore=124.33;sscore=18.46;rscore=12.81;uscore=0.38;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_1871	csy1_TypeIF	mandatory	CAS-TypeIF	CDS	1914202	1915593	-	ID=1_1871;partial=00;start_type=GTG;rbs_motif=AGGAG;rbs_spacer=5-10bp;gc_cont=0.638;conf=100.00;score=153.49;cscore=148.31;sscore=5.19;rscore=12.81;uscore=-1.09;tscore=-5.88;
+NZ_CP079095_1_Methylococcus_species_strain_strain_1874	cas3-cas2_TypeIF	mandatory	CAS-TypeIF	CDS	1916910	1920221	-	ID=1_1874;partial=00;start_type=ATG;rbs_motif=None;rbs_spacer=None;gc_cont=0.651;conf=99.99;score=436.38;cscore=429.22;sscore=7.15;rscore=-3.09;uscore=1.85;tscore=4.01;
+NZ_CP079095_1_Methylococcus_species_strain_strain_1875	cas1_TypeIF	mandatory	CAS-TypeIF	CDS	1920218	1921195	-	ID=1_1875;partial=00;start_type=ATG;rbs_motif=GGA/GAG/AGG;rbs_spacer=11-12bp;gc_cont=0.625;conf=100.00;score=132.99;cscore=128.58;sscore=4.41;rscore=-0.95;uscore=1.35;tscore=4.01;
+####Summary system CAS-TypeIF:begin=1911576;end=1921195:{sequenceID=NZ_CP079095_1_Methylococcus_species_strain_strain} : [cas6_TypeIF (1911576,1912139,-); csy3_TypeIF (1912143,1913195,-); csy2_TypeIF (1913199,1914209,-); csy1_TypeIF (1914202,1915593,-); cas3-cas2_TypeIF (1916910,1920221,-); cas1_TypeIF (1920218,1921195,-)]
+
+

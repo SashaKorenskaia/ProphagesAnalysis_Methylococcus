@@ -1,0 +1,1346 @@
+{
+"Date":"19/9/2024_22:50:39",
+"Version":"4.2.30",
+"Command":"perl /usr/local/CRISPRCasFinder/CRISPRCasFinder.pl ",
+"Sequences":
+[{
+"Id":"CP079098_1_Methylococcus_species_strain_strain",
+"Version":"CP079098_1_Methylococcus_species_strain_strain",
+"Description":"Unknown",
+"AT":36.509908898102,
+"Length":3255256,
+"Summary_CRISPR-Cas":"",
+"Crisprs":[
+{
+"Name": "CP079098_1_Methylococcus_species_strain_strain_1",
+"Start": 909603,
+"End": 910936,
+"DR_Consensus": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC",
+"Repeat_ID": "R6757",
+"DR_Length": 37,
+"Spacers": 18,
+"Potential_Orientation": "+",
+"CRISPRDirection": "-",
+"Evidence_Level": 4,
+"Conservation_DRs": 96.9490025751868,
+"Conservation_Spacers": 0,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 909503,
+"End": 909602,
+"Sequence": "CGCAGCCGTGCAGGGCGACTGCCGAGATCAGAATCACGGGAATGACCCTAGCCGCATTCCGCATCATTCATTTCCTCCTGTTTCGCAAGCGTATCCGTGT",
+"Leader": 1,
+"AT": 43
+},
+ {
+"Type": "DR",
+"Start": 909603,
+"End": 909639,
+"Sequence": "TTCAACCCAGAGTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 909640,
+"End": 909674,
+"Sequence": "TGCGGGGTGTGTGGTCGCAGGTCTCTGCAGTGCAG"
+},
+{
+"Type": "DR",
+"Start": 909675,
+"End": 909711,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 909712,
+"End": 909746,
+"Sequence": "TCCGCCGGTCTGAACATCCCCTACGAGCTGCTGCT"
+},
+{
+"Type": "DR",
+"Start": 909747,
+"End": 909783,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 909784,
+"End": 909817,
+"Sequence": "GGGGGACCCCAGGCGCTCGTCCCGGGGCGTCCAA"
+},
+{
+"Type": "DR",
+"Start": 909818,
+"End": 909854,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 909855,
+"End": 909888,
+"Sequence": "GCTCATACTGATACCCTCATGATGTAGTTAGGGG"
+},
+{
+"Type": "DR",
+"Start": 909889,
+"End": 909925,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 909926,
+"End": 909961,
+"Sequence": "GCCGCTCGCAAAAGCGGCAATGCCGCCAAAATCAAG"
+},
+{
+"Type": "DR",
+"Start": 909962,
+"End": 909998,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 909999,
+"End": 910032,
+"Sequence": "GAATGGCGGCCATTGCCCAGCGCGCCATGCGGTC"
+},
+{
+"Type": "DR",
+"Start": 910033,
+"End": 910069,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910070,
+"End": 910105,
+"Sequence": "GGCGGCATCGAGCAGGGCCTGTTCGCGCGTCGGCGC"
+},
+{
+"Type": "DR",
+"Start": 910106,
+"End": 910142,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910143,
+"End": 910176,
+"Sequence": "GATGGCTCGGCAGCGCGCGCCGTATTTCCGCCTT"
+},
+{
+"Type": "DR",
+"Start": 910177,
+"End": 910213,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910214,
+"End": 910249,
+"Sequence": "GGTCCTGCAACCCATGGCGTCACGGCGGCATTTCTT"
+},
+{
+"Type": "DR",
+"Start": 910250,
+"End": 910286,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910287,
+"End": 910320,
+"Sequence": "TCCAGTAGCCGGTGGCCTCGCCGGCGTCGGTGCC"
+},
+{
+"Type": "DR",
+"Start": 910321,
+"End": 910357,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910358,
+"End": 910393,
+"Sequence": "CCTCATGGCCGAGTCGGCGATCTCCAGCGCCCGCGC"
+},
+{
+"Type": "DR",
+"Start": 910394,
+"End": 910430,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910431,
+"End": 910466,
+"Sequence": "GTGGATCTTCGCCGGCCGCGGCTGGGTCGATCCGGT"
+},
+{
+"Type": "DR",
+"Start": 910467,
+"End": 910503,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910504,
+"End": 910538,
+"Sequence": "TGTTATGAGCACCACTCCCGACATTGCTTCTGAAG"
+},
+{
+"Type": "DR",
+"Start": 910539,
+"End": 910575,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910576,
+"End": 910609,
+"Sequence": "CGGCGGCCGCGCTCAAGGCCATCGACGACCAGGA"
+},
+{
+"Type": "DR",
+"Start": 910610,
+"End": 910646,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910647,
+"End": 910682,
+"Sequence": "GACCTGGGCCGGCGCTGATGGACCACATCCTGGCGA"
+},
+{
+"Type": "DR",
+"Start": 910683,
+"End": 910719,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910720,
+"End": 910753,
+"Sequence": "CGCTGGGCATGGCCGCGGTGCTGGCCGTGATCAT"
+},
+{
+"Type": "DR",
+"Start": 910754,
+"End": 910790,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910791,
+"End": 910826,
+"Sequence": "CGTGATGGACGTCGCCGCCTGGAAGGTCTTCCGGGA"
+},
+{
+"Type": "DR",
+"Start": 910827,
+"End": 910863,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "Spacer",
+"Start": 910864,
+"End": 910899,
+"Sequence": "GGTATGCCCCGTCCCCAGGATGAGGCGCGACTCGAT"
+},
+{
+"Type": "DR",
+"Start": 910900,
+"End": 910936,
+"Sequence": "GTTTCAATCCACTCCCGGCTATTTAGCCGGGAGATAC"
+},
+{
+"Type": "RightFLANK",
+"Start": 910937,
+"End": 911036,
+"Sequence": "CCTCCAGGCGTAGATAAGCCTCGGGCGTGGTGACGTAGAGGGTGTTTTGCAGCACGGTCATGGAAGGTCCTCTTCCGGTTCGAACAGGGTTTGCGCGAGC",
+"Leader": 0,
+"AT": 40
+}
+]
+},
+{
+"Name": "CP079098_1_Methylococcus_species_strain_strain_2",
+"Start": 1187083,
+"End": 1191929,
+"DR_Consensus": "GGTCTATCCCCGCGTGTGCGGGGGAGCC",
+"Repeat_ID": "R5229",
+"DR_Length": 28,
+"Spacers": 79,
+"Potential_Orientation": "-",
+"CRISPRDirection": "-",
+"Evidence_Level": 4,
+"Conservation_DRs": 99.6537692640626,
+"Conservation_Spacers": 0,
+"Regions": [
+{
+"Type": "LeftFLANK",
+"Start": 1186983,
+"End": 1187082,
+"Sequence": "CCTATGGCTTCGCGGGGACGTCGCACTCGTTCGCTTCGCTCGACTTCCTTGTGCTCCTTCAATGAACCAGGTATTGCACTTCGCCCTTGACACCGCCGGG",
+"Leader": 0,
+"AT": 40
+},
+ {
+"Type": "DR",
+"Start": 1187083,
+"End": 1187110,
+"Sequence": "GTTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187111,
+"End": 1187143,
+"Sequence": "ATATGAATGTGCCGGCCAACCAGGCGCCGGACA"
+},
+{
+"Type": "DR",
+"Start": 1187144,
+"End": 1187171,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187172,
+"End": 1187204,
+"Sequence": "GGCTTGGGCGTCGGCTTTTGCTGCTTGGCGTGC"
+},
+{
+"Type": "DR",
+"Start": 1187205,
+"End": 1187232,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187233,
+"End": 1187265,
+"Sequence": "GATCCGCAAGAGTTACATCAAGATGGCCCGGGA"
+},
+{
+"Type": "DR",
+"Start": 1187266,
+"End": 1187293,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187294,
+"End": 1187326,
+"Sequence": "TAGGCTTTGGCGCGACTCATGATGCTCTCCTCG"
+},
+{
+"Type": "DR",
+"Start": 1187327,
+"End": 1187354,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187355,
+"End": 1187387,
+"Sequence": "TTCTTTAAACACTCTTGAACAAAATGCCCAAAA"
+},
+{
+"Type": "DR",
+"Start": 1187388,
+"End": 1187415,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187416,
+"End": 1187448,
+"Sequence": "CCCGGCTGCTGATGCGGCAGATCCGGCAGTTTG"
+},
+{
+"Type": "DR",
+"Start": 1187449,
+"End": 1187476,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187477,
+"End": 1187509,
+"Sequence": "GCCTCCGGCTCGGTCATGTGCTGGATTCCGGCG"
+},
+{
+"Type": "DR",
+"Start": 1187510,
+"End": 1187537,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187538,
+"End": 1187570,
+"Sequence": "TGCAATCAGGCTGCTCTCGATGCTCTTTTGCAG"
+},
+{
+"Type": "DR",
+"Start": 1187571,
+"End": 1187598,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187599,
+"End": 1187631,
+"Sequence": "CGGCAATCGGAGAGGTTTGAACTGTGCCGGCGC"
+},
+{
+"Type": "DR",
+"Start": 1187632,
+"End": 1187659,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187660,
+"End": 1187692,
+"Sequence": "CTTGATGGCGGGAAGCACCGATAACACGCATGA"
+},
+{
+"Type": "DR",
+"Start": 1187693,
+"End": 1187720,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187721,
+"End": 1187753,
+"Sequence": "GCGTCGACCGCCGTCCCGGTCGACCGCCCAACA"
+},
+{
+"Type": "DR",
+"Start": 1187754,
+"End": 1187781,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187782,
+"End": 1187814,
+"Sequence": "GCCGAGGCGGTGGCCGCGGAATCCGGCGGCGTG"
+},
+{
+"Type": "DR",
+"Start": 1187815,
+"End": 1187842,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187843,
+"End": 1187875,
+"Sequence": "GCACAGGCCGCGCGTCTCCAGCCACCGGATGGC"
+},
+{
+"Type": "DR",
+"Start": 1187876,
+"End": 1187903,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187904,
+"End": 1187936,
+"Sequence": "CCCTGGCGCGACCGGCGATACCCAGGATGATCA"
+},
+{
+"Type": "DR",
+"Start": 1187937,
+"End": 1187964,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1187965,
+"End": 1187997,
+"Sequence": "CTTGATGGCGGGAAGCACCGATGACACGCATGA"
+},
+{
+"Type": "DR",
+"Start": 1187998,
+"End": 1188025,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188026,
+"End": 1188058,
+"Sequence": "GGGCCTTCTCTTTTCTGGGGGTGATCGTGGGTG"
+},
+{
+"Type": "DR",
+"Start": 1188059,
+"End": 1188086,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188087,
+"End": 1188119,
+"Sequence": "ATGTGAACGTCCGGAAACTCGTATCTCGTCACG"
+},
+{
+"Type": "DR",
+"Start": 1188120,
+"End": 1188147,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188148,
+"End": 1188180,
+"Sequence": "CATGCAGGAGCGCGGCGTAGACCTTCGCCGCGA"
+},
+{
+"Type": "DR",
+"Start": 1188181,
+"End": 1188208,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188209,
+"End": 1188241,
+"Sequence": "CGCTTGATCCTTTGAACGGTCGCCGGCTCTACG"
+},
+{
+"Type": "DR",
+"Start": 1188242,
+"End": 1188269,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188270,
+"End": 1188302,
+"Sequence": "TGCTACGCTTTGCCATGTCGGCTTTCTCCTTAT"
+},
+{
+"Type": "DR",
+"Start": 1188303,
+"End": 1188330,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188331,
+"End": 1188363,
+"Sequence": "GAGATGATCGGGGAAAGGGTGCTCCCGCCAAGG"
+},
+{
+"Type": "DR",
+"Start": 1188364,
+"End": 1188391,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188392,
+"End": 1188424,
+"Sequence": "TGCCCTGTTCCGCTGCGCTACACGATGCAGACA"
+},
+{
+"Type": "DR",
+"Start": 1188425,
+"End": 1188452,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188453,
+"End": 1188485,
+"Sequence": "ACCGCGACACCGGCGAACTCCGCCCCGACTACG"
+},
+{
+"Type": "DR",
+"Start": 1188486,
+"End": 1188513,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188514,
+"End": 1188546,
+"Sequence": "TGCCCTGTTCCGCTGCGCTACACGATGCAGACA"
+},
+{
+"Type": "DR",
+"Start": 1188547,
+"End": 1188574,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188575,
+"End": 1188607,
+"Sequence": "ACCGCGACACCGGCGAACTCCGCCCCGACTACG"
+},
+{
+"Type": "DR",
+"Start": 1188608,
+"End": 1188635,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188636,
+"End": 1188668,
+"Sequence": "CGGTAAAGGCCGGGTTTCACCTGACCATAGTAG"
+},
+{
+"Type": "DR",
+"Start": 1188669,
+"End": 1188696,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188697,
+"End": 1188729,
+"Sequence": "GCTTAGGCATGACCGCACTCGGGCAATTATTGA"
+},
+{
+"Type": "DR",
+"Start": 1188730,
+"End": 1188757,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188758,
+"End": 1188790,
+"Sequence": "CATCGTCATGGGCTGCATCGGCACTCCGGATGA"
+},
+{
+"Type": "DR",
+"Start": 1188791,
+"End": 1188818,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188819,
+"End": 1188851,
+"Sequence": "GGCGTGATGGCGGAGGACAAGGCACTGGCCACG"
+},
+{
+"Type": "DR",
+"Start": 1188852,
+"End": 1188879,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188880,
+"End": 1188912,
+"Sequence": "CGCGATCGCCCTGGTCCGGCTCAGTCTGAACTG"
+},
+{
+"Type": "DR",
+"Start": 1188913,
+"End": 1188940,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1188941,
+"End": 1188973,
+"Sequence": "GCTACCTGATGATGCAGTCGGCCCCGCTGGTCG"
+},
+{
+"Type": "DR",
+"Start": 1188974,
+"End": 1189001,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189002,
+"End": 1189034,
+"Sequence": "GACTGCACAGCCTGGATGAGGGATATCTCCCGG"
+},
+{
+"Type": "DR",
+"Start": 1189035,
+"End": 1189062,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189063,
+"End": 1189095,
+"Sequence": "GTCGCCGCGGCCGCGGGGATGATCAGGCCATCC"
+},
+{
+"Type": "DR",
+"Start": 1189096,
+"End": 1189123,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189124,
+"End": 1189156,
+"Sequence": "ATCGGGTCTCACCGGCGCCGACATCGACGCCAA"
+},
+{
+"Type": "DR",
+"Start": 1189157,
+"End": 1189184,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189185,
+"End": 1189217,
+"Sequence": "GCCGCGAACGCCGAAGCCGAGTTCCGGACCTGG"
+},
+{
+"Type": "DR",
+"Start": 1189218,
+"End": 1189245,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189246,
+"End": 1189278,
+"Sequence": "GACTCTGTGGCACCGCGAGAGAGCTTTTTGCAA"
+},
+{
+"Type": "DR",
+"Start": 1189279,
+"End": 1189306,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189307,
+"End": 1189339,
+"Sequence": "TCTGTCCCACGCCCTTATGATCCATAAGGAAAA"
+},
+{
+"Type": "DR",
+"Start": 1189340,
+"End": 1189367,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189368,
+"End": 1189400,
+"Sequence": "TTGATGGCCTCGATCTGGGCGTTGAGGCGCTCG"
+},
+{
+"Type": "DR",
+"Start": 1189401,
+"End": 1189428,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189429,
+"End": 1189461,
+"Sequence": "AAATCAGCGCCATGTAGATCGGCCTCGCGCAGA"
+},
+{
+"Type": "DR",
+"Start": 1189462,
+"End": 1189489,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189490,
+"End": 1189522,
+"Sequence": "GACCTTGCCCATACGCCGGGCCGCCCAGGGACG"
+},
+{
+"Type": "DR",
+"Start": 1189523,
+"End": 1189550,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189551,
+"End": 1189583,
+"Sequence": "GATCCCTACATGGCCCACCAATAAATCAAAGGG"
+},
+{
+"Type": "DR",
+"Start": 1189584,
+"End": 1189611,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189612,
+"End": 1189644,
+"Sequence": "GCCGTCAGGCCGCTTGTCCGCCTCATAGCCAGG"
+},
+{
+"Type": "DR",
+"Start": 1189645,
+"End": 1189672,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189673,
+"End": 1189705,
+"Sequence": "GCGATTCCGAAGCTCGGCAAGGTGGTCTCATGA"
+},
+{
+"Type": "DR",
+"Start": 1189706,
+"End": 1189733,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189734,
+"End": 1189766,
+"Sequence": "GGGCGATCAGGAGTTGACCGAGTGCGGTCATGA"
+},
+{
+"Type": "DR",
+"Start": 1189767,
+"End": 1189794,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189795,
+"End": 1189827,
+"Sequence": "AGCGCCGGCATATGACGGACTCTACCGGGTCAG"
+},
+{
+"Type": "DR",
+"Start": 1189828,
+"End": 1189855,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189856,
+"End": 1189888,
+"Sequence": "TACGTCACAAAGTGCCGGATTTTGGTTTTGCTG"
+},
+{
+"Type": "DR",
+"Start": 1189889,
+"End": 1189916,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189917,
+"End": 1189949,
+"Sequence": "TCGGGTTTGGCCGGGGCGATTTCCGGCTCCATC"
+},
+{
+"Type": "DR",
+"Start": 1189950,
+"End": 1189977,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1189978,
+"End": 1190010,
+"Sequence": "GAACAAAGGCCGATCTTGAGAGTGTGCGGCCAG"
+},
+{
+"Type": "DR",
+"Start": 1190011,
+"End": 1190038,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190039,
+"End": 1190071,
+"Sequence": "GGCAGCGCCAGAGGCCCGAGGCCGCCAGACTCG"
+},
+{
+"Type": "DR",
+"Start": 1190072,
+"End": 1190099,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190100,
+"End": 1190132,
+"Sequence": "GCCTCGTCGGCCAGCCGCCGCCCTGGCGCGTCA"
+},
+{
+"Type": "DR",
+"Start": 1190133,
+"End": 1190160,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190161,
+"End": 1190193,
+"Sequence": "TACAGTACGGACGGGAAAGCAGGCGCATCATCA"
+},
+{
+"Type": "DR",
+"Start": 1190194,
+"End": 1190221,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190222,
+"End": 1190254,
+"Sequence": "ATACGGACAAGAGGCCGCACCACCGACCGAGAC"
+},
+{
+"Type": "DR",
+"Start": 1190255,
+"End": 1190282,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190283,
+"End": 1190315,
+"Sequence": "GCCGCGGCCCTGCTGGCGTCGGCGAAGAAGTCG"
+},
+{
+"Type": "DR",
+"Start": 1190316,
+"End": 1190343,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190344,
+"End": 1190376,
+"Sequence": "ATTTCCCCGGCTCAAGCAGCACATCGAGGGGAA"
+},
+{
+"Type": "DR",
+"Start": 1190377,
+"End": 1190404,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190405,
+"End": 1190437,
+"Sequence": "TCCGGCAAGGCGTGGCTGACCTTGACGGCGGAC"
+},
+{
+"Type": "DR",
+"Start": 1190438,
+"End": 1190465,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190466,
+"End": 1190498,
+"Sequence": "GTGCGCGTAGGGGCACCGGGCCGGCGGAAGGAG"
+},
+{
+"Type": "DR",
+"Start": 1190499,
+"End": 1190526,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190527,
+"End": 1190559,
+"Sequence": "CTGGATTAGCCGGCTTTTAGCGCGACTGATCAA"
+},
+{
+"Type": "DR",
+"Start": 1190560,
+"End": 1190587,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190588,
+"End": 1190620,
+"Sequence": "TCGGTCAGCCAATCCCAAGTCGTATCGAAGAAC"
+},
+{
+"Type": "DR",
+"Start": 1190621,
+"End": 1190648,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190649,
+"End": 1190681,
+"Sequence": "CCCAGGTACAGCGTGGACGAACAAAGGCCGATC"
+},
+{
+"Type": "DR",
+"Start": 1190682,
+"End": 1190709,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190710,
+"End": 1190742,
+"Sequence": "GACATGGTCTTGACTACGCCCAACATCGACCGG"
+},
+{
+"Type": "DR",
+"Start": 1190743,
+"End": 1190770,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190771,
+"End": 1190803,
+"Sequence": "TCGTAACCACCAAGCGCGGACCTCCGGTCATGC"
+},
+{
+"Type": "DR",
+"Start": 1190804,
+"End": 1190831,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190832,
+"End": 1190864,
+"Sequence": "AGCTTGGTTGTCACGAAGGTCTTGTCAACCAGG"
+},
+{
+"Type": "DR",
+"Start": 1190865,
+"End": 1190892,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190893,
+"End": 1190925,
+"Sequence": "CCGTACCACTACCGCTTCCCGTACCACTACCGC"
+},
+{
+"Type": "DR",
+"Start": 1190926,
+"End": 1190953,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1190954,
+"End": 1190986,
+"Sequence": "TCCGATCCATCCATCCGGGCGATGGCATAAACC"
+},
+{
+"Type": "DR",
+"Start": 1190987,
+"End": 1191014,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191015,
+"End": 1191047,
+"Sequence": "TTCTCCTTGGTACGTCTCCGGCTTCACCGTGGG"
+},
+{
+"Type": "DR",
+"Start": 1191048,
+"End": 1191075,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191076,
+"End": 1191108,
+"Sequence": "GCTTGGTTCTTTTGCTTGCGCTGATGGGGTCGG"
+},
+{
+"Type": "DR",
+"Start": 1191109,
+"End": 1191136,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191137,
+"End": 1191169,
+"Sequence": "ACTGATAAAGATTTTGGCAATAGCAAACATCAA"
+},
+{
+"Type": "DR",
+"Start": 1191170,
+"End": 1191197,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191198,
+"End": 1191230,
+"Sequence": "CGACGATGGAAATCTCCATCGGGGTGAAATCGG"
+},
+{
+"Type": "DR",
+"Start": 1191231,
+"End": 1191258,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191259,
+"End": 1191291,
+"Sequence": "TTCAATATTGCGGTCGCCGCGGGCAGCGGCAAA"
+},
+{
+"Type": "DR",
+"Start": 1191292,
+"End": 1191319,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191320,
+"End": 1191352,
+"Sequence": "TCGGAGGCTTGTTCGGCGGGGCTATCGGCGGAA"
+},
+{
+"Type": "DR",
+"Start": 1191353,
+"End": 1191380,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191381,
+"End": 1191413,
+"Sequence": "CCGATTCCTCCCCCACCGGTGCACTGAACGCGA"
+},
+{
+"Type": "DR",
+"Start": 1191414,
+"End": 1191441,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191442,
+"End": 1191474,
+"Sequence": "GGCGATGTTCGGGGCTTGCATCAGCATGACGGC"
+},
+{
+"Type": "DR",
+"Start": 1191475,
+"End": 1191502,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191503,
+"End": 1191535,
+"Sequence": "ATCCAGATCCCCGGCATCTACGCCTCCGGACCG"
+},
+{
+"Type": "DR",
+"Start": 1191536,
+"End": 1191563,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191564,
+"End": 1191596,
+"Sequence": "GAAATCCGATTCGCCAGGAGGGCATGAGGATGA"
+},
+{
+"Type": "DR",
+"Start": 1191597,
+"End": 1191624,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191625,
+"End": 1191657,
+"Sequence": "GACCTTCTGGCCGATGGCCGGTATTTCGTGGCA"
+},
+{
+"Type": "DR",
+"Start": 1191658,
+"End": 1191685,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191686,
+"End": 1191718,
+"Sequence": "GCGACATCGGCGACACAGGGGCTCTGGTGCAGA"
+},
+{
+"Type": "DR",
+"Start": 1191719,
+"End": 1191746,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191747,
+"End": 1191779,
+"Sequence": "TCCTGTCCTGTCCCACTTGTCCCACCCTCAACG"
+},
+{
+"Type": "DR",
+"Start": 1191780,
+"End": 1191807,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191808,
+"End": 1191840,
+"Sequence": "CCGCATGCCAGAGCCGATCAGCACCGACCCTAG"
+},
+{
+"Type": "DR",
+"Start": 1191841,
+"End": 1191868,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "Spacer",
+"Start": 1191869,
+"End": 1191901,
+"Sequence": "TGCCTGAGCGCGCGACCATCATGGCCGATGAGG"
+},
+{
+"Type": "DR",
+"Start": 1191902,
+"End": 1191929,
+"Sequence": "GGTCTATCCCCGCGTGTGCGGGGGAGCC"
+},
+{
+"Type": "RightFLANK",
+"Start": 1191930,
+"End": 1192029,
+"Sequence": "TCTATAGGCTAACGCTTTGAGGTAAAACAAAAAAGCGGACTGTTAAAGATCCACTAAACCCTAAGGTCGACGAGTCAGGACTATTCCGTCAAGTTCAACG",
+"Leader": 1,
+"AT": 57
+}
+]
+}]
+,
+"Cas":[{
+"Type": "CAS-TypeIC",
+"Start": 910994,
+"End": 917536,
+"Genes": [
+{
+"Sub_type": "cas4_TypeI-II",
+"Start": 910994,
+"End": 911626,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas7c_TypeIC",
+"Start": 911886,
+"End": 912815,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas8c_TypeIC",
+"Start": 912875,
+"End": 914596,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas5c_TypeIC",
+"Start": 914593,
+"End": 915261,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas3_TypeI",
+"Start": 915314,
+"End": 917536,
+"Orientation": "-"
+}]},
+{
+"Type": "CAS-TypeIE",
+"Start": 1191990,
+"End": 1200617,
+"Genes": [
+{
+"Sub_type": "cas2_TypeIE",
+"Start": 1191990,
+"End": 1192283,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas1_TypeIE",
+"Start": 1192255,
+"End": 1193145,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas6_TypeIE",
+"Start": 1193142,
+"End": 1193861,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas5_TypeIE",
+"Start": 1193858,
+"End": 1194607,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas7_TypeIE",
+"Start": 1194618,
+"End": 1195862,
+"Orientation": "-"
+},
+{
+"Sub_type": "cse2_TypeIE",
+"Start": 1195936,
+"End": 1196448,
+"Orientation": "-"
+},
+{
+"Sub_type": "cse1_TypeIE",
+"Start": 1196426,
+"End": 1197988,
+"Orientation": "-"
+},
+{
+"Sub_type": "cas3_TypeI",
+"Start": 1197972,
+"End": 1200617,
+"Orientation": "-"
+}]}]
+
+}
+]
+}
